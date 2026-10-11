@@ -1,107 +1,61 @@
-```html
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MAJID&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code.%20Create.%20Conquer.&descSize=20&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:302b63,100:00d4ff&height=200&section=header&text=MAJID&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Majid+%F0%9F%91%8B;B.Tech+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Code+%E2%9A%A1;Learning.+Building.+Leveling+Up.+%F0%9F%94%A5" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Majid+%F0%9F%91%8B;B.Tech+Student+%F0%9F%8E%93;Aspiring+Developer+%F0%9F%92%BB;Building+Ideas+Into+Reality+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-im--majid-181717?style=for-the-badge&logo=github)](https://github.com/im-majid)
-[![Profile Views](https://komarev.com/ghpvc/?username=im-majid&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)](https://github.com/im-majid)
+<img src="https://img.shields.io/badge/Developer_in_Progress-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 ---
 
-## ⚡ `whoami`
+## 👨‍💻 About Me
 
-```javascript
 const majid = {
     name: "Majid",
     username: "im-majid",
-    role: "B.Tech Student & Aspiring Developer",
-    interests: ["Software Development", "Web Development", "AI"],
-    currentlyLearning: ["C", "JavaScript", "TypeScript"],
-    mindset: "Learn something new every day 🚀",
-    motto: "Dream big. Build bigger."
+    education: "B.Tech Student",
+    interests: ["Coding", "Web Development", "AI"],
+    learning: ["C", "JavaScript", "TypeScript"],
+    goal: "Build something awesome 🚀"
 };
 
-console.log("Welcome to my GitHub universe! 🌌");
-```
+console.log("Welcome to my GitHub!");
 
-## 🧠 Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=c,html,css,js,ts" />
-
-### ⚙️ Frameworks & Backend
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind,supabase" />
-
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nodejs,express,tailwind,supabase,git,github,vscode&perline=7" alt="My tech stack" />
 
 </div>
 
-## 🚀 Projects & Experiments
+## 🚀 Featured Project
 
-<table>
-<tr>
-<td width="50%">
+### 🚜 Smart Farmer Procurement Portal
 
-### 🚜 Smart Farmer Portal
-A smarter way to manage procurement slots, queues, notifications, and payment tracking for farmers.
+A smart platform designed to help farmers book procurement slots, monitor queues, receive notifications, and track payment status.
 
-**Focus:** Real-world problem solving
+- 🎯 **Mission:** Reduce waiting time for farmers.
+- 💡 **Focus:** Solving real-world problems with technology.
 
-</td>
-<td width="50%">
-
-### 🧪 Next Big Thing
-I'm always experimenting with code, exploring new technologies, and turning ideas into projects.
-
-**Status:** More projects loading... ⏳
-
-</td>
-</tr>
-</table>
-
-## 📊 GitHub Command Center
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=im-majid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=im-majid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-majid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-majid&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=im-majid&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
-
-</div>
-
-## 🐍 The Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/im-majid/im-majid/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-
-</div>
-
-<!--
-To enable the snake animation, configure a GitHub Actions workflow
-to generate the SVG and publish it to the output branch.
--->
-
-## 🌐 Find Me Here
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/im-majid)
+<img width="70%" src="https://streak-stats.demolab.com?user=im-majid&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
 </div>
 
@@ -109,11 +63,19 @@ to generate the SVG and publish it to the output branch.
 
 <div align="center">
 
-### ⚡ BUILD • BREAK • LEARN • REPEAT ⚡
+### 🌌 CONNECT • CREATE • INNOVATE
 
-*"The best way to predict the future is to build it."*
+<a href="https://github.com/im-majid">
+<img src="https://img.shields.io/badge/FOLLOW%20ME-GitHub-181717?style=for-the-badge&logo=github" alt="Follow me on GitHub" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<br/><br/>
+
+**⚡ BUILD • LEARN • LEVEL UP ⚡**
+
+*"Turning curiosity into code, one project at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:090979&height=100&section=footer" width="100%" />
 
 </div>
 ```
