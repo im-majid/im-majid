@@ -78,4 +78,3 @@ A smart platform designed to help farmers book procurement slots, monitor queues
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:090979&height=100&section=footer" width="100%" />
 
 </div>
-```
