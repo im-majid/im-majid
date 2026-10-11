@@ -1,73 +1,119 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Majid</h1>
-  
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer-Science%20Student%20From%20India;Planning%20To%20Specialize%20in%20Data-Science;%20Logic-Driven,%20Creativity-Fueled;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=700&height=45&color=f50000&vCenter=true&pause=1000&size=25" />
-</p>
+```html
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=im-majid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/im-majid?style=social" alt="GitHub Followers" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MAJID&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code.%20Create.%20Conquer.&descSize=20&descAlignY=55" width="100%" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Majid+%F0%9F%91%8B;B.Tech+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Code+%E2%9A%A1;Learning.+Building.+Leveling+Up.+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
+<br/>
 
-### 🧠 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-im--majid-181717?style=for-the-badge&logo=github)](https://github.com/im-majid)
+[![Profile Views](https://komarev.com/ghpvc/?username=im-majid&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)](https://github.com/im-majid)
 
-- 🎓 CSE Undergrad | Passionate about **Machine Learning**, **Data Science**, and **Open Source**
-- 📚 Currently learning **Python, C, C++**, and exploring **AI for Real-World Applications**
-- 💡 I love building projects that solve real-life problems
-- 🌱 Exploring **Competitive Programming** to sharpen logical thinking
-- 🎯 **Goal**: Get a fully funded MS in AI from a top global university!
-
----  
+</div>
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="\" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="\" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="\" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+## ⚡ `whoami`
 
----
+```javascript
+const majid = {
+    name: "Majid",
+    username: "im-majid",
+    role: "B.Tech Student & Aspiring Developer",
+    interests: ["Software Development", "Web Development", "AI"],
+    currentlyLearning: ["C", "JavaScript", "TypeScript"],
+    mindset: "Learn something new every day 🚀",
+    motto: "Dream big. Build bigger."
+};
 
-### ⚡ Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+console.log("Welcome to my GitHub universe! 🌌");
+```
 
----
+## 🧠 Tech Arsenal
 
-### 📊 GitHub Stats  
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,html,css,js,ts" />
+
+### ⚙️ Frameworks & Backend
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind,supabase" />
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+## 🚀 Projects & Experiments
 
 <table>
 <tr>
-<td>
-   <img src="https://github-readme-stats.vercel.app/api?username=im-yousuf&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/>
+<td width="50%">
+
+### 🚜 Smart Farmer Portal
+A smarter way to manage procurement slots, queues, notifications, and payment tracking for farmers.
+
+**Focus:** Real-world problem solving
+
 </td>
-<td>
-   <img src="https://nirzak-streak-stats.vercel.app/?user=im-yousuf&theme=highcontrast&hide_border=true"/>
+<td width="50%">
+
+### 🧪 Next Big Thing
+I'm always experimenting with code, exploring new technologies, and turning ideas into projects.
+
+**Status:** More projects loading... ⏳
+
 </td>
 </tr>
 </table>
 
+## 📊 GitHub Command Center
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=im-majid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-majid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=im-majid&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
+
+</div>
+
+## 🐍 The Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/im-majid/im-majid/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
+</div>
+
+<!--
+To enable the snake animation, configure a GitHub Actions workflow
+to generate the SVG and publish it to the output branch.
+-->
+
+## 🌐 Find Me Here
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/im-majid)
+
+</div>
+
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true)
+<div align="center">
 
----
+### ⚡ BUILD • BREAK • LEARN • REPEAT ⚡
 
+*"The best way to predict the future is to build it."*
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
-
+</div>
+```
